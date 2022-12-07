@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Exelma
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Front End
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
