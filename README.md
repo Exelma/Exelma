@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Exelma
-- 👀 I’m interested in Front End
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in Analytics
+- 🌱 I’m currently learning Statistics, Power Bi, SQL, Python
 
 <!---
 Exelma/Exelma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
